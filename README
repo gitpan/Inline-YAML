@@ -3,7 +3,7 @@ NAME
 
 SYNOPSIS
         use Inline::YAML;
-    
+
         my @hackers =
         ---
         name: Larry Wall
@@ -74,10 +74,10 @@ AUTHOR
     Ingy döt Net <ingy@cpan.org>
 
 COPYRIGHT
-    Copyright (c) 2002, 2010. Ingy döt Net.
+    Copyright 2002-2014. Ingy döt Net.
 
     This program is free software; you can redistribute it and/or modify it
     under the same terms as Perl itself.
 
-    See http://www.perl.com/perl/misc/Artistic.html
+    See <http://www.perl.com/perl/misc/Artistic.html>
 
