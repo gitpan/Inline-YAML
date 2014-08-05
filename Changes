@@ -1,3 +1,6 @@
+0.13 Tue Aug  5 09:25:15 PDT 2014
+ - Add badges to doc
+
 0.12 Mon Aug  4 07:51:15 PDT 2014
  - Switch to Zilla::Dist
  - Switch to YAML::XS

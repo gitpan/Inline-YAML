@@ -26,4 +26,4 @@ resources:
   bugtracker: https://github.com/ingydotnet/inline-yaml-pm/issues
   homepage: https://github.com/ingydotnet/inline-yaml-pm
   repository: https://github.com/ingydotnet/inline-yaml-pm.git
-version: '0.12'
+version: '0.13'
