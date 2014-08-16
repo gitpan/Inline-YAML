@@ -23,7 +23,7 @@ my %WriteMakefileArgs = (
     "Filter::Simple" => 0,
     "YAML::XS" => 0
   },
-  "VERSION" => "0.14",
+  "VERSION" => "0.15",
   "test" => {
     "TESTS" => "t/*.t"
   }
