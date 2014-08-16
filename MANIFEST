@@ -9,5 +9,6 @@ Makefile.PL
 README
 lib/Inline/YAML.pm
 lib/Inline/YAML.pod
+t/000-compile-modules.t
 t/basic.t
 t/release-pod-syntax.t
